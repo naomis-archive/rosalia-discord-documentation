@@ -1,3 +1,4 @@
 # [Rosalia Nightsong](/index.md)
 
-Content coming soon!
+- [Getting Started](getting-started.md)
+- [Commands](commands.md)
