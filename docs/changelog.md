@@ -6,6 +6,17 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Beta
 
+### 0.0.1-rc.2
+
+- Added author information to embeds
+- Fixed issue where data wasn't saved properly on certain adventure results
+
+### 0.0.1-rc.1
+
+- Fixed issue in character database schema
+- Fixed bug where inventory items were assigned to wrong slot
+- Fixed bug where gold was not assigned on battle victory
+
 ### 0.0.1-rc.0
 
 - Initial Release!
