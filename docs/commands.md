@@ -35,6 +35,15 @@ These commands help manage your inventory.
 | `/inventory use`     | `item: string` | Uses the named `item`, removing it from your inventory and applying its effects. |
 | `/inventory view`    | `null`         | Shows your inventory.                                                            |
 
+## `/market` Commands
+
+These commands allow you to view and purchase items in the market.
+
+| Command            | Parameters         | Description                                                          |
+| ------------------ | ------------------ | -------------------------------------------------------------------- |
+| `/market purchase` | `item: string`     | Purchase the named `item` from the market.                           |
+| `/market visit`    | `location: Choice` | Visit the named `location` in the market. Shows the items available. |
+
 ## `/rosalia` Commands
 
 | Commands           | Paramaters | Description                                                                 |
