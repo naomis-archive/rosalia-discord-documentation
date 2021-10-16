@@ -6,6 +6,16 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Beta
 
+### 0.0.1-rc.3
+
+- Fixed error in database query for `/adventure rest` and `/adventure map`
+- Added `/adventure search` to find new exploration areas
+- Removed stat decrease on battle defeat
+- Added more seed data
+- Implemented the market system
+  - `/market visit` to see what a specific shoppe offers
+  - `/market purchase` to buy an item
+
 ### 0.0.1-rc.2
 
 - Added author information to embeds
