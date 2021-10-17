@@ -18,4 +18,10 @@
 
 ## Gamemaster Handbook
 
+- [Contributing](contributing.md)
+- [Developer Certificate of Origin](developer-certificate.md)
+- [Local Instance](local-instance.md)
+- [Discord Setup](discord-setup.md)
+- [Environment](environment.md)
+- [Making A Pull Request](pull-request.md)
 - [Changelog](changelog.md)
