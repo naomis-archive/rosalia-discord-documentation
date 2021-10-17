@@ -36,4 +36,22 @@ Equipment items remain in your inventory while equipped, and still take a backpa
 
 If you use a consumable item, it is automatically removed from your inventory and the bonus is immediately applied.
 
-<!-- Add market info here! -->
+## Market
+
+Our town has a large marketplace, with multiple shoppes you can visit. To visit a shoppe and see what they have to sell, use the `/market visit` command and select your destination.
+
+### Magic Shoppe
+
+The Magic Shoppe sells various tomes and scrolls, which you can use to increase your stats and become stronger.
+
+### Blacksmith
+
+The blacksmith sells various weapons.
+
+### Armorer
+
+The armorer sells protective gear.
+
+### Alchemist
+
+The alchemist sells potions and healing items.
