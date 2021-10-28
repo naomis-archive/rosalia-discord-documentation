@@ -6,6 +6,13 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Beta
 
+### 0.0.1-rc.4
+
+- Added chance for monster to "wait" (do nothing) in battle.
+- Added multiple descriptions for each data entry, to allow for variety.
+- Expanded available content significantly.
+- Added `/rosalia art` command.
+
 ### 0.0.1-rc.3
 
 - Fixed error in database query for `/adventure rest` and `/adventure map`
