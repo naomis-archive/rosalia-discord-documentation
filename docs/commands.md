@@ -49,6 +49,7 @@ These commands allow you to view and purchase items in the market.
 | Commands           | Paramaters | Description                                                                 |
 | ------------------ | ---------- | --------------------------------------------------------------------------- |
 | `/rosalia about`   | `null`     | Provides information about the bot.                                         |
+| /`rosalia art`     | `null`     | Provides a random art depicting Rosalia.                                    |
 | `/rosalia donate`  | `null`     | Provides links to the methods to financially support the bot's development. |
 | `/rosalia ping`    | `null`     | Provides the bot's response time.                                           |
 | `/rosalia profile` | `null`     | Provides a link to Rosalia's profile.                                       |
