@@ -2,7 +2,15 @@
 
 Here you can see the changes made across each version of Rosalia.
 
-[Beta](#beta)
+[Version 1](#Version-1) | [Beta](#beta)
+
+## Version 1
+
+### 1.0.0
+
+- Public release!
+- Added `/rosalia beta` command.
+- Added server with uptime monitoring endpoint.
 
 ## Beta
 
