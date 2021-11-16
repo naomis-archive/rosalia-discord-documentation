@@ -6,6 +6,10 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Version 1
 
+### 1.0.1
+
+- Added donation CTA to the embeds.
+
 ### 1.0.0
 
 - Public release!
