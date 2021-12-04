@@ -6,6 +6,12 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Version 1
 
+### 1.1.0
+
+- Added logging for guild join and leave events
+- Added logging for new character creation
+- Added total character count to the `/rosalia about` command.
+
 ### 1.0.1
 
 - Added donation CTA to the embeds.
