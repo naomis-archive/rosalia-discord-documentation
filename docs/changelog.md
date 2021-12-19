@@ -6,6 +6,10 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Version 1
 
+### 1.1.1
+
+- Added developer avatar to donation CTA in embed footer for clearer branding.
+
 ### 1.1.0
 
 - Added logging for guild join and leave events
