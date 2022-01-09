@@ -9,3 +9,5 @@ Currently the bot is still under development and no documentation is available a
 - [Invite Rosalia! (currently unavailable)](https://invite.rosalianightsong.com)
 
 - [Join our Support Server](https://chat.nhcarrigan.com)
+
+- [Connect with us on Twitter](https://twitter.com/RosaNightsong)
