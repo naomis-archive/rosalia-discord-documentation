@@ -6,7 +6,7 @@ Currently the bot is still under development and no documentation is available a
 
 ## Helpful Links
 
-- [Invite Rosalia! (currently unavailable)](https://invite.rosalianightsong.com)
+- [Invite Rosalia!](https://invite.rosalianightsong.com)
 
 - [Join our Support Server](https://chat.nhcarrigan.com)
 
