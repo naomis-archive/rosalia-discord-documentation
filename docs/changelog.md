@@ -6,6 +6,12 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Version 1
 
+### 1.2.0
+
+- Added link buttons to a few of the embeds.
+- Added a step to sort the subcommands alphabetically.
+- Added the `/rosalia contact` and `/rosalia updates` commands.
+
 ### 1.1.1
 
 - Added developer avatar to donation CTA in embed footer for clearer branding.
