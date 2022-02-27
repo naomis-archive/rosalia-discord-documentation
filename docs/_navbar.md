@@ -25,3 +25,8 @@
 - [Environment](environment.md)
 - [Making A Pull Request](pull-request.md)
 - [Changelog](changelog.md)
+
+---
+
+- [Privacy Policy](privacy.md)
+- [Term of Service](terms.md)
