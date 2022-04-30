@@ -6,6 +6,10 @@ Here you can see the changes made across each version of Rosalia.
 
 ## Version 1
 
+### 1.2.1
+
+- Patched an error with a missing button style in the `/rosalia about` command.
+
 ### 1.2.0
 
 - Added link buttons to a few of the embeds.
