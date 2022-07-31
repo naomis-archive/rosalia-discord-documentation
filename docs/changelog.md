@@ -2,7 +2,7 @@
 
 Here you can see the changes made across each version of Rosalia.
 
-[Version 1](#Version-1) | [Beta](#beta)
+[Version 1](#version-1) | [Beta](#beta)
 
 ## Version 1
 
