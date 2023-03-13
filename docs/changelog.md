@@ -4,7 +4,6 @@ Here you can see the changes made across each version of Rosalia.
 
 [Version 2](#version-2) | [Version 1](#version-1) | [Beta](#beta)
 
-
 ## Version 2
 
 ### 2.0.1
@@ -15,6 +14,7 @@ Here you can see the changes made across each version of Rosalia.
 ### 2.0.0
 
 - Migrated to `discord.js` version 14.
+
 ## Version 1
 
 ### 1.2.1
