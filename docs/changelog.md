@@ -2,8 +2,19 @@
 
 Here you can see the changes made across each version of Rosalia.
 
-[Version 1](#version-1) | [Beta](#beta)
+[Version 2](#version-2) | [Version 1](#version-1) | [Beta](#beta)
 
+
+## Version 2
+
+### 2.0.1
+
+- Fixed incorrect links in the buttons of the `/rosalia help` command.
+- Tweaked the `/rosalia updates` command to remove the mentions of weekly releases.
+
+### 2.0.0
+
+- Migrated to `discord.js` version 14.
 ## Version 1
 
 ### 1.2.1
