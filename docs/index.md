@@ -10,4 +10,4 @@ Currently the bot is still under development and no documentation is available a
 
 - [Join our Support Server](https://chat.nhcarrigan.com)
 
-- [Connect with us on Twitter](https://twitter.com/RosaNightsong)
+- [Connect with us on Mastodon](https://mastodon.naomi.lgbt/@rosalia)
